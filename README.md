@@ -1,19 +1,39 @@
-# My-web Project
+# My-web
 
-Selamat datang di proyek **My-web**! Ini adalah halaman web yang saya buat sebagai eksperimen pertama dalam pembuatan website.
+Selamat datang di repositori **My-web**! Ini adalah situs web yang saya buat untuk eksperimen awal pembuatan halaman web dengan HTML, CSS, dan GitHub Pages.
 
-## Fitur
-- Halaman utama dengan berbagai konten.
-- Halaman kedua dengan fitur scroll.
-- Desain responsif yang cocok untuk perangkat mobile.
+## Struktur Halaman
 
-## Cara Menggunakan
-1. Clone repositori ini.
-2. Buka file `index.html` untuk melihat halaman utama.
-3. Buka file `halaman2.html` untuk melihat halaman kedua dengan konten scrollable.
+- **[Index Page](https://My-web.github.io/My-web/)**: Halaman utama situs web ini.
+- **[Halaman 2](https://My-web.github.io/My-web/halaman2.html)**: Halaman kedua yang berisi lebih banyak konten.
 
-## Kontribusi
-Jika kamu ingin berkontribusi pada proyek ini, fork repositori ini dan kirimkan pull request.
+## Deskripsi
 
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Website ini dibuat untuk eksperimen awal dan memiliki desain yang sederhana, namun modern. Halaman utama (`index.html`) memberikan pengantar dan halaman kedua (`halaman2.html`) menawarkan lebih banyak konten yang dapat di-scroll.
+
+## Cara Mengakses
+
+1. **Halaman Utama**:  
+   Kunjungi halaman utama dengan mengakses:  
+   [https://My-web.github.io/My-web/](https://My-web.github.io/My-web/)
+
+2. **Halaman 2**:  
+   Untuk mengunjungi halaman kedua, klik link berikut:  
+   [https://My-web.github.io/My-web/halaman2.html](https://My-web.github.io/My-web/halaman2.html)
+
+## Cara Berkontribusi
+
+Jika kamu ingin berkontribusi atau membuat perubahan, kamu dapat mengikuti langkah-langkah berikut:
+
+1. Fork repositori ini.
+2. Clone repositori yang telah di-fork.
+3. Lakukan perubahan pada file HTML atau CSS sesuai keinginan.
+4. Commit perubahan dan buat Pull Request untuk menggabungkan perubahan tersebut.
+
+## License
+
+Repositori ini tidak memiliki lisensi khusus, jadi kamu bebas untuk menggunakannya dan memodifikasinya sesuai kebutuhan.
+
+---
+
+Terima kasih telah mengunjungi repositori ini! Jangan ragu untuk memberikan saran atau masukan.
